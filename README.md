@@ -10,7 +10,7 @@ The Blender files are too large, so I had to split them up. Just download the fi
 
 - **vans_black_pair.blend.7z.001 - vans_black_pair.blend.7z.007** = pair of Vans
 
-
+- **vans.fbx.7z.001 - vans.fbx.7z.007** = fbx file
 
 
 
